@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mohammed Umarulla 👋
 
-<!--
-**Mohammedumarulla/Mohammedumarulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Computer Science graduate currently building my skills in **Data Analytics, SQL, Python, and Business Intelligence**.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech in Computer Science & Engineering
+- 💼 Currently working as a Senior Learning Consultant at Great Learning
+- 📊 Building a strong foundation in Data and Business Analytics
+- 💻 Developing skills in SQL, Python, data analysis, and visualization
+- 🎯 Interested in Data Analyst, Business Analyst, and Business Intelligence roles
+
+### Currently Learning
+
+- SQL
+- Python for Data Analysis
+- Data Visualization
+- Statistics
+- Business Analytics
+- Business Intelligence
+
+### What You'll Find Here
+
+This profile will document my learning journey and, over time, include **SQL analyses, Python projects, data visualization work, and business analytics projects**.
+
+I'm focused on building practical skills through hands-on projects rather than just collecting certifications.
